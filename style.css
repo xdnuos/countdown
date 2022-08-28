@@ -41,7 +41,7 @@
     background-image: url(banner.jpg);
     background-position: center center;
     background-size: cover;
-    opacity: 0.3;
+    opacity: 0.8;
     z-index: -1;
 }
   
